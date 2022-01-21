@@ -1,9 +1,9 @@
 {
   "name": "HDD Tools",
-  "version": "0.52.0",
+  "version": "1.52.0e",
   "slug": "hdd_tools",
   "description": "HDD Tools provides S.M.A.R.T. information",
-  "url": "https://github.com/Draggon/hassio-hdd-tools",
+  "url": "https://github.com/eroldan/hassio-hdd-tools",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
